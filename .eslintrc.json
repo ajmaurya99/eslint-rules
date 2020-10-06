@@ -1,12 +1,3 @@
-# ESLint config file that disables all rules individually.
-
-This is a Eslint config (eslintrc.json) file that has all the rules turned off so that you can change your code on a rule by rule basis rather than changing all the code to fit all the rules?
-
-I have referred the latest EsLint rules to make this config file. [ESLint Rules](https://eslint.org/docs/rules/) 
-
-Below is the config ESlint rules config file.
-
-```sh
 {
   "env": {
     "browser": true
@@ -292,10 +283,3 @@ Below is the config ESlint rules config file.
     // Stylistic Issues -- end
   }
 }
-
-```
-
-License
-----
-
-MIT
